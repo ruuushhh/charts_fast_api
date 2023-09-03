@@ -4,9 +4,9 @@ This repo serves as a backend API for charts generating using FastAPI and MongoD
 <br>
 
 Please check out the API docs here
-```
+
 https://chart-fastapi.onrender.com/docs#/
-```
+
 
 For local env, follow these steps
 
