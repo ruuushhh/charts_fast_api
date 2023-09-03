@@ -1,0 +1,17 @@
+name,date,chart_type,overdue_days,outstanding_amount,recovery_amount
+ABCD,01-Oct-21,New NPA Accounts,135,4575,
+EFGH,01-Oct-21,New NPA Accounts,128,4218,
+IJKL,01-Oct-21,New NPA Accounts,95,3905,
+MNOP,01-Oct-21,New NPA Accounts,132,3517,
+QRST,01-Oct-21,New NPA Accounts,118,3278,
+UVWS,01-Oct-21,New NPA Accounts,96,2194,
+ABCD,01-Oct-21,NPA Accounts with recovery,,8920,735
+EFGH,01-Oct-21,NPA Accounts with recovery,,1927,223
+IJKL,01-Oct-21,NPA Accounts with recovery,,2345,182
+MNOP,01-Oct-21,NPA Accounts with recovery,,963,132
+ABCD,01-Oct-21,New SMA Accounts,35,4575,
+EFGH,01-Oct-21,New SMA Accounts,42,4218,
+IJKL,01-Oct-21,New SMA Accounts,51,3905,
+MNOP,01-Oct-21,New SMA Accounts,82,3517,
+QRST,01-Oct-21,New SMA Accounts,78,3278,
+UVWS,01-Oct-21,New SMA Accounts,38,2194,
